@@ -17,7 +17,7 @@ This is a **React + Vite** project for a **Crowdfunding Platform**, designed to 
 ## Installation
 To run the project locally:
 ```sh
-git clone https://github.com/your-username/crowdfunding.git
+git clone https://github.com/murugappan18/crowdfunding.git
 cd crowdfunding
 npm install
 npm run dev
